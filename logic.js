@@ -120,7 +120,7 @@ function handleSlide(e){
 			setTimeout(() => {
 
 				
-				alert("BOBO KA TANGINAMO APAKA TANGA MO TANGAINAMO KA TALO KA NA");
+				alert("Game Over!");
 				restartGame();
 				alert("Click any arrow key to restart");
 
